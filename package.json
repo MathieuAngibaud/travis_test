@@ -1,0 +1,15 @@
+{
+  "name": "projet_travis",
+  "version": "1.0.0",
+  "description": "travis test",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^3.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "ava test.js"
+  },
+  "author": "mathieu angibaud",
+  "license": "ISC"
+}
