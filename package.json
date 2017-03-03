@@ -6,7 +6,9 @@
   "dependencies": {
     "npm": "^3.5.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "ava": "^0.18.2"
+  },
   "scripts": {
     "test": "ava test.js"
   },
